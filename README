@@ -1,0 +1,12 @@
+A simple Amazon SimpleDB library for Python 3.
+
+See test.py for example code and usage.
+
+This library was origionally developed for demonstrating the various features of SimpleDB in the book "Beginning SimpleDB". The book project was never completed and the code should *not* necessarily be considered 'production ready'. However, the examples should work as expected and the entire SimpleDB API (Version 2009-04-15) should be supported.
+
+With all that in mind, please feel free to do what you want with this code. :-)
+
+If you have any problems, questions, or comments please feel free to contact me via info@falicon.com any time.
+
+- Kevin
+
